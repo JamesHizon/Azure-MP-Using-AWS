@@ -1,1 +1,1 @@
-# Azure-MP-Using-AWS
+# Azure Mini-Project Using AWS
